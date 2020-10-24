@@ -1,16 +1,21 @@
-### Hi there 👋
+## Diego Giacomelli
+https://diegogiacomelli.com.br
+<br><br>
+Programmer since 2001. <br>
+Aspiring game developer since childhood. 
 
-<!--
-**giacomelli/giacomelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Work in progress
+ARC-8: an CHIP-8 emulator for Unity3D and Blazor (I'll publish it on GitHub soon)
 
-Here are some ideas to get you started:
+Puzzimals, GeneticSharp, Ships N' Battles, Curseing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Ask me about
+Puzzimals, GeneticSharp, Ships N' Battles, Curseing, or any of my others project directly on my Discord server or Twitter:
+
+### How to reach me
+* [Blog](https://diegogiacomelli.com.br)
+* [Twitter](https://twitter.com/ogiacomelli)
+* [Reddit](https://www.reddit.com/user/ogiacomelli)
+* [YouTube](https://youtube.com/user/dmgiacomelli)
+* [Discord](https://discord.com/channels/748716444715319358/748716446296571906)
 -->
