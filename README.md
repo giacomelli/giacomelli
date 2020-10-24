@@ -7,8 +7,6 @@ Aspiring game developer since childhood.
 ### Work in progress
 ARC-8: an CHIP-8 emulator for Unity3D and Blazor (I'll publish it on GitHub soon)
 
-Puzzimals, GeneticSharp, Ships N' Battles, Curseing
-
 ### Ask me about
 Puzzimals, GeneticSharp, Ships N' Battles, Curseing, or any of my others project directly on my Discord server or Twitter:
 
