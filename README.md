@@ -1,6 +1,6 @@
 Programmer since 2001.<br>
 Aspiring game developer since childhood.<br>
-I write about C #, Unity 3D, game development and web development, and more at https://diegogiacomelli.com.br.
+I write about C#, Unity 3D, game development and web development (backend), and more at https://diegogiacomelli.com.br.
 
 Currently interest in anything that I can code with C# and mostly working on web projects during the day and game development projects with Unity 3D during the night.
 <hr>
