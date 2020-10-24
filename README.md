@@ -1,8 +1,6 @@
-## Diego Giacomelli
+Programmer since 2001.<br>
+Aspiring game developer since childhood.<br>
 https://diegogiacomelli.com.br
-<br><br>
-Programmer since 2001. <br>
-Aspiring game developer since childhood. 
 
 ### Work in progress<br>
 ARC-8: an CHIP-8 emulator for Unity3D and Blazor (I'll publish it on GitHub soon)
