@@ -17,5 +17,4 @@ Puzzimals, GeneticSharp, Ships N' Battles, Curseing, or any of my others project
 * [Twitter](https://twitter.com/ogiacomelli)
 * [Reddit](https://www.reddit.com/user/ogiacomelli)
 * [YouTube](https://youtube.com/user/dmgiacomelli)
-* [Discord](https://discord.com/channels/748716444715319358/748716446296571906)
--->
+* [Discord](https://discord.com/channels/748716444715319358/748716446296571906)s
