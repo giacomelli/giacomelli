@@ -2,11 +2,17 @@ Programmer since 2001.<br>
 Aspiring game developer since childhood.<br>
 https://diegogiacomelli.com.br
 
-### Work in progress<br>
+<hr>
+
+### Work in progress
 ARC-8: an CHIP-8 emulator for Unity3D and Blazor (I'll publish it on GitHub soon)
+
+<hr>
 
 ### Ask me about<br>
 Puzzimals, GeneticSharp, Ships N' Battles, Curseing, or any of my others project directly on my Discord server or Twitter:
+
+<hr>
 
 ### How to reach me
 * [Blog](https://diegogiacomelli.com.br)
