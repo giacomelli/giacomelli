@@ -10,11 +10,11 @@ ARC-8: an CHIP-8 emulator for Unity3D and Blazor (I'll publish it on GitHub soon
 <hr>
 
 ### Ask me about 🤔
-Puzzimals, GeneticSharp, Ships N' Battles, Curseing, or any of my others project directly on my [Discord server](https://discord.com/channels/748716444715319358/748716446296571906) or [Twitter](https://twitter.com/ogiacomelli).
+Puzzimals, GeneticSharp, Ships N 'Battles, Curseing or any of my more than 100 projects directly on my [Discord server](https://discord.com/channels/748716444715319358/748716446296571906) or [Twitter](https://twitter.com/ogiacomelli).
 
 <hr>
 
-### How to reach me 🔗
+### How to reach me 🔎
 * [Blog](https://diegogiacomelli.com.br)
 * [Twitter](https://twitter.com/ogiacomelli)
 * [Reddit](https://www.reddit.com/user/ogiacomelli)
