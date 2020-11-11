@@ -12,9 +12,9 @@ https://diegogiacomelli.com.br/tags/arc8-devlog/
 <hr>
 
 ### Ask me about 🤔
-[Puzzimals](https://diegogiacomelli.com.br/games/puzzimals), [GeneticSharp](https://github.com/giacomelli/GeneticSharp), [Ships N 'Battles](https://diegogiacomelli.com.br/games/ships-n-battles/), [Curseings](https://diegogiacomelli.com.br/games/curseings/) or any of my more than 100 projects directly on my [Discord server](https://discord.gg/PtcVGJ) or [Twitter](https://twitter.com/ogiacomelli).
+[Puzzimals](https://diegogiacomelli.com.br/games/puzzimals), [GeneticSharp](https://github.com/giacomelli/GeneticSharp), [Ships N 'Battles](https://diegogiacomelli.com.br/games/ships-n-battles/), [Curseings](https://diegogiacomelli.com.br/games/curseings/) or any of my more than 100 projects directly on my [Discord server](https://discord.gg/zVfU65dcrv) or [Twitter](https://twitter.com/ogiacomelli).
 
 <hr>
 
 ### How to reach me 🔎
-[Blog](https://diegogiacomelli.com.br), [Twitter](https://twitter.com/ogiacomelli), [Reddit](https://www.reddit.com/user/ogiacomelli), [YouTube](https://youtube.com/user/dmgiacomelli), and [Discord](https://discord.gg/PtcVGJ).
+[Blog](https://diegogiacomelli.com.br), [Twitter](https://twitter.com/ogiacomelli), [Reddit](https://www.reddit.com/user/ogiacomelli), [YouTube](https://youtube.com/user/dmgiacomelli), and [Discord](https://discord.gg/zVfU65dcrv).
