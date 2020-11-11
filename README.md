@@ -6,7 +6,8 @@ Currently interest in anything that I can code with C# and mostly working on web
 <hr>
 
 ### Work in progress 🚧
-ARC-8: an CHIP-8 emulator for Unity3D and Blazor (I'll publish it on GitHub soon)
+ARC-8: an CHIP-8 emulator for Unity3D and Blazor (I'll publish it on GitHub soon)<br>
+https://diegogiacomelli.com.br/tags/arc8-devlog/
 
 <hr>
 
