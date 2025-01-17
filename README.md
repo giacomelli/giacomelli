@@ -3,7 +3,7 @@ Senior .NET Developer | Web API | Framework | Azure | Unity 3D.
 With over 24 years of professional programming experience, I am a senior .NET developer working for the last 20 years with .NET and C#.
 
 I write about C#, Unity 3D, game development and web development, and more at https://diegogiacomelli.com.br.<br>
-I am Currently interested in anything I can code with C# and mostly working on web projects during the day and game development projects with Unity 3D at night.
+I am currently interested in anything I can code with C# and mostly working on web projects during the day and game development projects with Unity 3D at night.
 <hr>
 
 ### Ask me about 🤔
